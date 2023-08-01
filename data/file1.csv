@@ -1,0 +1,5 @@
+col1,col2,col3,col4,age
+data1,data2,data3,data4,26
+data1,data2,,data4,99
+data1,data2,,data4,63
+data1,data2,,data4,160
